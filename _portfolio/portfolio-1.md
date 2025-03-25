@@ -11,6 +11,6 @@ tech:
   - Python
   - OpenCV
   - Django
-github_url: https://github.com/yourname/project-repo
-demo_url: /assets/video/注册阶段.mp4
+github_url: 'https://github.com/yourname/project-repo'
+demo_url: '/assets/video/注册阶段.mp4'
 ---
